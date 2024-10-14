@@ -1,7 +1,5 @@
 # README #
 
-This is a test work from Web Department of Unigine Company.
-
 ### How do I get set up? ###
 
 * Install Docker Compose
@@ -15,3 +13,4 @@ This is a test work from Web Department of Unigine Company.
 
 * To encode ```someurl``` you can use ```/encode-url?url=someurl``` endpoint
 * To decode ```somehash``` you can use ```/decode-url?hash=somehash``` endpoint
+* Use ```/gourl?hash=somehash``` endpoint to go to link via hash
